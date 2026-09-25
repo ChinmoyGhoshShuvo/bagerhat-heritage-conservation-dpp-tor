@@ -1,0 +1,22 @@
+# Source: DPP "Components and Estimated Cost Summary" (lakh BDT). Grand total 300 lakh (GOB grant).
+component_group,item,lakh_bdt
+Revenue: salaries & wages,Project supervisor,30.6
+Revenue: salaries & wages,Team leader,19.4
+Revenue: salaries & wages,Office manager,11.2
+Revenue: salaries & wages,Technical officer,10.6
+Revenue: salaries & wages,Surveyor,9
+Revenue: salaries & wages,Civil engineer,21
+Revenue: salaries & wages,Architect,15
+Revenue: salaries & wages,Labour wage,46
+Revenue: salaries & wages,Planner,13
+Revenue: salaries & wages,Accountant,16
+Revenue: site assessment & research,Site assessment and research,1.5
+Capital: restoration & conservation,Construction materials and supplies,30
+Capital: office management,Office rent,18.6
+Capital: office management,Desk and chair,3
+Capital: office management,Equipment,7
+Capital: land development,Transportation,1.3
+Capital: land development,Utilities,41
+Capital: monitoring & maintenance,Monitoring and maintenance,0.8
+Contingency,Physical contingency,1.5
+Contingency,Price contingency,3.5
